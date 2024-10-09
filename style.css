@@ -1,0 +1,26 @@
+
+.container{
+    
+    border: 1px solid gray;
+}
+
+
+.error{
+    margin: 3px;
+    font-size: 12px;
+}
+
+.first{
+    background-color: #DCDCDC;
+}
+
+.second{
+    background-color: #DCDCDC;
+    
+    text-align: end;
+    display: flex;
+    
+    
+
+}
+
